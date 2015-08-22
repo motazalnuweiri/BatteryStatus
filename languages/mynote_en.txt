@@ -1,0 +1,3 @@
+﻿Note: This application is under development, may contain bugs.
+
+Copyright (C) 2013 for Motaz Alnuweiri
