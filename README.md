@@ -4,10 +4,12 @@ Battery Status & Information for Symbian, written using Qt QML and Qt Quick Libr
 * [Battery Status in symbian-developers.net](http://forum.symbian-developers.net/symbian3-applications/%28free%29-battery-status-v1-1-0-by-motaz-alnuweiri/)
 
 ##### ScreenShot:
-![Main Screen](https://i.imgur.com/u0qUb0q.jpg)
-![Landscape Screen](https://i.imgur.com/aXp1EXu.jpg)
-![Settings Screen](https://i.imgur.com/y9jyuNJ.jpg)
-![Widget](https://i.imgur.com/zEryhm7.jpg)
+![Main Screen](Images/Main_Screen.jpg)
+![Main Screen Charging](Images/Main_Screen_Charging.jpg)
+![Landscape Screen](Images/Landscape_Screen.jpg)
+![Landscape Screen Charging](Images/Landscape_Screen_Charging.jpg)
+![Settings Screen](Images/Settings_Screen.jpg)
+![Widget](Images/Widget.jpg)
 
 ##### New in v1.1.0:
  - New UI
